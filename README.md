@@ -2,6 +2,7 @@
 Модуль 9. AJAX
 
 ===============================
+
 9.2. JSON vs XML
 
 **Задание 1.
@@ -11,6 +12,7 @@
 
  XML:
 
+<!-- 
 <list>
   <student>
     <name lang="en">
@@ -29,6 +31,7 @@
     <prof>driver</prof>
   </student>
 </list>
+-->
 
 JS-объект:
 
